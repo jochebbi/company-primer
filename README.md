@@ -18,6 +18,7 @@ The objective is to provide a concise overview of the company's business model, 
 ## Company Primer
 
 The full company primer is available as a PDF in this repository.
+[View NextEra Energy Company Primer (PowerPoint)](NextEra%20Primer.pptx)
 
 ## Author
 
